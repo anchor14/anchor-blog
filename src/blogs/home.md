@@ -16,10 +16,9 @@ So I want to understand myself better. As much as I love paintings, I wasn’t g
 ### Random, romantic
 1. [Circles](/blog?post=circles)
 2. [How to spend time](/blog?post=time)
-3. [Under water](/blog?post=under-water)
-4. Less disciplines, more curiosity
-5. Max
-6. My grandma
+3. Less disciplines, more curiosity
+4. Max
+5. My grandma
 
 
 
