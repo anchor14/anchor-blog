@@ -20,7 +20,7 @@ export default function Header() {
             align="center"
             sx={{ color: "#4a4a4a" }}
           >
-            .Elba.
+            .Anchor.
           </Typography>
         </Link>
       </Grid>
