@@ -1,4 +1,4 @@
-# The Elba Notebook
+# Anchor
 
 I started writing a while ago because I had ideas floating around my head that I was afraid to lose. They could be just random, trivial thoughts, but they were mine, and I wanted to keep them somewhere. 
 

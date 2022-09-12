@@ -10,16 +10,16 @@ So I want to understand myself better. As much as I love paintings, I wasn’t g
 
 ### Engineering
 1. [How I chose to study computer science](/blog?post=computer-science)
-2. Why I love tech
-3. Why I hate tech
+2. The beautify of programming
+3. What good code looks like, IMO
+4. What I love and hate about tech
 
 ### Random, romantic
 1. [Circles](/blog?post=circles)
 2. [How to spend time](/blog?post=time)
-3. Less disciplines, more curiosity
-4. Max
+3. [Diciplines and curiosity](/blog?post=discipline-and-curiosity)
+4. [Max](/blog?post=max)
 5. My grandma
-
 
 
 ### Startups
@@ -31,7 +31,7 @@ So I want to understand myself better. As much as I love paintings, I wasn’t g
 This is about what I saw and experienced in the army, more specifically during my 9 month deployment as part of United Nations Peacekeeping Forces in Lebanon.
 
 1. PRC(coming up)
-2. Gunshots at 4:30 a.m.(coming up)
+2. Gunshots in the morning(coming up)
 
 ### My story
 
