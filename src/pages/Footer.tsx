@@ -21,9 +21,9 @@ function Copyright() {
 
 
 const social = [
-  { name: 'Instagram', icon: InstragramIcon, link: "https://www.instagram.com/cristian.xavier_/" },
-  { name: 'LinkedIn', icon: LinkedInIcon, link: "https://www.linkedin.com/in/cristhian-munoz-munoz/" },
-  { name: 'Facebook', icon: FacebookIcon, link: "https://www.facebook.com/cristian.munoz.10004/" },
+  { name: 'Instagram', icon: InstragramIcon, link: "https://www.instagram.com/jaehurn_also_lloyd/" },
+  { name: 'LinkedIn', icon: LinkedInIcon, link: "https://www.linkedin.com/in/jaehurnnam/" },
+  { name: 'Facebook', icon: FacebookIcon, link: "https://www.facebook.com/jaehurnnamalsolloyd/" },
 ];
 
 export default function Footer() {
