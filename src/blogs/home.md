@@ -9,14 +9,14 @@ So I want to understand myself better. As much as I love paintings, I wasn’t g
 *Thank you to Cristhian for teaching me how to make a website like this using Netlify, you can see his blog at [elba.fyi](https://www.elba.fyi/).
 
 ### Engineering
-1. How I chose to study computer science
+1. [How I chose to study computer science](/blog?post=computer-science)
 2. Why I love tech
 3. Why I hate tech
 
 ### Random, romantic
 1. [Circles](/blog?post=circles)
-2. How to spend time
-3. Under water
+2. [How to spend time](/blog?post=time)
+3. [Under water](/blog?post=under-water)
 4. Less disciplines, more curiosity
 5. Max
 6. My grandma
@@ -36,7 +36,7 @@ This is about what I saw and experienced in the army, more specifically during m
 
 ### My story
 
-1. How I chose to study computer science
-2. Canada, 2005
-3. New York, 2016-2017
-4. Dublin, 2022
+1. Canada, 2005
+2. New York, 2016-2017
+3. Lebanong, 2020-2021
+3. Dublin, 2022
