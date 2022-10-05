@@ -11,7 +11,7 @@ So I want to understand myself better. As much as I love paintings, I wasn’t g
 ### Engineering
 1. [How I chose to study computer science](/blog?post=computer-science)
 2. The beautify of programming
-3. What good code looks like, IMO
+3. [What good code looks like, IMO](/blog?post=good-code)
 4. What I love and hate about tech
 
 ### Random, romantic
