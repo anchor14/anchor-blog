@@ -37,5 +37,5 @@ This is about what I saw and experienced in the army, more specifically during m
 
 1. Canada, 2005
 2. New York, 2016-2017
-3. Lebanong, 2020-2021
+3. Lebanon, 2020-2021
 3. Dublin, 2022
