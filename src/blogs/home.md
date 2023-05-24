@@ -8,7 +8,7 @@ So I want to understand myself better. As much as I love paintings, I wasn’t g
 
 *Thank you to Cristhian for teaching me how to make a website like this using Netlify, you can see his blog at [elba.fyi](https://www.elba.fyi/).
 
-### The layoff, before and after the
+### The layoff, before and after
 1. [Intro](/blog?post=layoff-intro)
 
 ### Engineering
