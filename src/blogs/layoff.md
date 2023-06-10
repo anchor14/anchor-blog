@@ -23,4 +23,5 @@ These past months have taught me to be grateful. I might be an immigrant with no
 I also learned how important people are. At the worst of times, people need other people. Whether it is to get specific tips for an interview, get feedback on my resume, or for pure moral support, there is nothing comparable to what my loved ones gave me throughout this whole process. So I learn how to be thankful, to cherish these, and to try my best to return what I was given.
 
 I am still young, weak, and dumb.
+
 I am lucky, grateful, and loved.
