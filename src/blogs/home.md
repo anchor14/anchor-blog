@@ -7,7 +7,7 @@ At the age of 26, I moved to a new country for a new opportunity. I am older tha
 So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lover, an immigrant, a student, a Korean, and a friend.
 
 ### The Twitter Layoff
-1. [Intro](/blog?post=layoff)
+1. [Twitter Layoff](/blog?post=layoff)
 
 ### Engineering
 1. [How I chose to study computer science](/blog?post=computer-science)
