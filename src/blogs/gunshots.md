@@ -27,7 +27,7 @@ Another way to prevent inertia is to unlearn the wrong lessons. At some point as
 I am not saying I am or was good at unlearning such lessons nor better at fighting inertia. I really was one of the many. I can’t turn the time back and save anyone from gunshots. Neither can anyone. But the least I could do after failing to take proper action when I should have, especially as a soldier, I have to learn.
 
 So this is what I learned.
-Set some kind of alert system, whether it is written down rules, reflective writing, or whatever works for you.
-When your alert system rings, unlearn the lesson, prevent your inertia, and do the right thing.
 
-And this would tackle a wider range of things. For example, the standard Korean education system teaches you that being good at exams means having a good understanding of the subject. This led me to reverse engineer what could come out in exams and study those. When i did well in exams, I believed I was actually learning, which I wasn’t. s
+Set some kind of alert system, whether it is written down rules, reflective writing, or whatever works for you.
+
+When your alert system rings, unlearn the lesson, prevent your inertia, and do the right thing.
