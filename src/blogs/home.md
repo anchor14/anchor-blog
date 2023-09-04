@@ -31,8 +31,8 @@ So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lo
 ### Army
 This is about what I saw and experienced in the army, more specifically during my 9 month deployment as part of United Nations Peacekeeping Forces in Lebanon.
 
-1. PRC
-2. Gunshots in the morning
+1. Gunshots and inertia(/blog?post=gunshots)
+2. PRC
 
 ### My story
 This is about cities that I lived in at least half a year
