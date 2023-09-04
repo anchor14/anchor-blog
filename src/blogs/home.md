@@ -18,7 +18,7 @@ So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lo
 ### Random, romantic
 1. [Circles](/blog?post=circles)
 2. [How to spend time](/blog?post=time)
-3. [Diciplines and curiosity](/blog?post=discipline-and-curiosity)
+3. [Disciplines and curiosity](/blog?post=discipline-and-curiosity)
 4. [Max](/blog?post=max)
 5. My grandma
 
@@ -31,7 +31,7 @@ So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lo
 ### Army
 This is about what I saw and experienced in the army, more specifically during my 9 month deployment as part of United Nations Peacekeeping Forces in Lebanon.
 
-1. Gunshots and inertia(/blog?post=gunshots)
+1. [Gunshots and inertia](/blog?post=gunshots)
 2. PRC
 
 ### My story
