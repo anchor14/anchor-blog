@@ -6,42 +6,45 @@ At the age of 26, I moved to a new country for a new opportunity. I am older tha
 
 So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lover, an immigrant, a student, a Korean, and a friend.
 
-### The Twitter Layoff
+<!-- The one without links are currently being written/edited. -->
+
+### Career
 1. [Twitter Layoff](/blog?post=layoff)
+<!-- 2. Job hunting, I absolutely hate it -->
 
 ### Engineering
 1. [How I chose to study computer science](/blog?post=computer-science)
-2. The beautify of programming
-3. [What good code looks like, IMO](/blog?post=good-code)
-4. What I love and hate about tech
+2. [What good code looks like, IMO](/blog?post=good-code)
+<!-- 2. The beautify of programming -->
+<!-- 4. What I love and hate about tech -->
 
 ### Random, romantic
 1. [Circles](/blog?post=circles)
 2. [How to spend time](/blog?post=time)
 3. [Disciplines and curiosity](/blog?post=discipline-and-curiosity)
 4. [Max](/blog?post=max)
-5. My grandma
+5. Transcending values across different fields, a.k.a. values to become the best at what you do
+<!-- 6. My grandma -->
+<!-- 7. My grandfather -->
 
 
 ### Startups
 1. Wall-it
-2. Plab football
-3. NUFUTU
+<!-- 2. NUFUTU -->
 
-### Army
+### UN peacekeeping
 This is about what I saw and experienced in the army, more specifically during my 9 month deployment as part of United Nations Peacekeeping Forces in Lebanon.
-
 1. [Gunshots and inertia](/blog?post=gunshots)
-2. PRC
+<!-- 2. PRC -->
 
-### My story
-This is about cities that I lived in at least half a year
-1. Canada, 2005
-2. New York, 2016-2017
-3. Lebanon, 2020-2021
-4. Dublin, 2022-2023
-5. Abu Dhabi
-
-
-
-*Thank you to Cristhian for teaching me how to make a website like this using Netlify, you can see his blog at [elba.fyi](https://www.elba.fyi/).
+### Everywhere I lived, loved, hated
+This is about the 9 countries that I have lived throughout my life
+1. Korea
+2. Canada
+3. United Arab Emirates
+4. United States
+5. Ghana
+6. Lebanon
+7. Spain
+8. Ireland
+9. United Kingdom
