@@ -28,7 +28,9 @@ One way to fight inertia that I found is to unlearn the wrong lessons. At some p
 I am not saying I am or was good at unlearning such lessons nor better at fighting inertia. I really was one of the many. I can’t turn back time and save anyone. Noone can. But the least I could do after failing to take proper action when I should have, is to learn. To learn, so the next time I am reaching inertia, to unlearn, and do the right thing.
 
 
-## Quote from Black Hawk Down, 2001
+<hr />
+Black Hawk Down, 2001
+
 Eversmann: I was talking to Blackburn the other day, and he asked me "What changed? Why are we going home?" and I said "Nothing." That's not true either; I think everything's changed. I know I've changed.
 
 You know a friend of mine asked me before I got here; it's when we were all shipping out. He asked me "Why are you going to fight somebody else's war? What, do you think you're heroes?" I didn't know what to say at the time, but if he'd ask me again I'd say no. I'd say there's not way in hell. Nobody asks to be a hero.
