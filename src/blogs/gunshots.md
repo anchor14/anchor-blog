@@ -33,4 +33,4 @@ Black Hawk Down, 2001
 
 Eversmann: I was talking to Blackburn the other day, and he asked me "What changed? Why are we going home?" and I said "Nothing." That's not true either; I think everything's changed. I know I've changed.
 
-You know a friend of mine asked me before I got here; it's when we were all shipping out. He asked me "Why are you going to fight somebody else's war? What, do you think you're heroes?" I didn't know what to say at the time, but if he'd ask me again I'd say no. I'd say there's no way in hell. Nobody asks to be a hero.
+You know a friend of mine asked me before I got here; it's when we were all shipping out. He asked me "Why are you going to fight somebody else's war? What, do you think you're all heroes?" I didn't know what to say at the time, but if he'd ask me again I'd say no. I'd say there's no way in hell. Nobody asks to be a hero.
