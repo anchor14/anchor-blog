@@ -21,7 +21,7 @@ function Copyright() {
 
 
 const social = [
-  { name: 'Instagram', icon: InstragramIcon, link: "https://www.instagram.com/jaehurn_also_lloyd/" },
+  { name: 'Instagram', icon: InstragramIcon, link: "https://www.instagram.com/jae_j_jay/" },
   { name: 'LinkedIn', icon: LinkedInIcon, link: "https://www.linkedin.com/in/jaehurnnam/" },
   { name: 'Facebook', icon: FacebookIcon, link: "https://www.facebook.com/jaehurnnamalsolloyd/" },
 ];
