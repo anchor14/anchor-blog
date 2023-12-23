@@ -23,7 +23,7 @@ So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lo
 2. [How to spend time](/blog?post=time)
 3. [Disciplines and curiosity](/blog?post=discipline-and-curiosity)
 4. [Max](/blog?post=max)
-5. Transcending values across different fields, a.k.a. values to become the best at what you do
+<!-- 5. Transcending values across different fields, a.k.a. values to become the best at what you do -->
 <!-- 6. My grandma -->
 <!-- 7. My grandfather -->
 
@@ -38,7 +38,9 @@ This is about what I saw and experienced in the army, more specifically during m
 <!-- 2. PRC -->
 
 ### Everywhere I lived, loved, hated
-This is about the 9 countries that I have lived throughout my life
+I started this series by writing some bullet points about what I think about the country, and realized I end up writing about what I went through while I was living there. So this series is a collection of how I lived, at different points in my life, in different places.
+
+Each place has their own beauty, and I definitely do have places I personally loved more than others. But I’m not trying to rank them here, or compare them in any way. I had the opportunity to live in many places, one I didn’t ask for, but still am grateful for.
 1. Korea
 2. Canada
 3. United Arab Emirates
