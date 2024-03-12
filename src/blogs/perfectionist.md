@@ -27,6 +27,8 @@ Y combinator also emphasizes to just launch something not perfect. This isn’t 
 
 If you are still hesitant to make decisions with an imperfect amount of information, think of it this way. You cannot achieve anything unless you make a decision, no matter how good your decision is going to be. Decision is just a prerequisite to execution. Execution is getting shit done. So don’t let the aspiration to be a perfectionist get in the way of getting shit done.
 
+<hr />
+
 After all these reasons, it almost sounds like I hate perfectionists. But I admire them. There is something inherently beautiful about someone working towards building something perfect, whether it be a small kid trying to build a sand castle or Van Gogh painting the Starry Night.
 
 But being a perfectionist takes a toll. If you are under the pressure of doing everything perfectly, you will never have enough time and be stressed of the things you produce. So don’t be a perfectionist. We can’t get the most important things done right if we do.
