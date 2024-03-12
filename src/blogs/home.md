@@ -8,6 +8,9 @@ So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lo
 
 <!-- The one without links are currently being written/edited. -->
 
+### 2024
+1. [Don't be a perfectionist](/blog?post=perfectionist)
+
 ### Career
 1. [Twitter Layoff](/blog?post=layoff)
 <!-- 2. Job hunting, I absolutely hate it -->
@@ -35,7 +38,7 @@ So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lo
 ### UN peacekeeping
 This is about what I saw and experienced in the army, more specifically during my 9 month deployment as part of United Nations Peacekeeping Forces in Lebanon.
 1. [Gunshots and inertia](/blog?post=gunshots)
-<!-- 2. PRC -->
+<!-- 2. PRC$$ -->
 
 ### Everywhere I lived, loved, hated
 I started this series by writing some bullet points about what I think about the country, and realized I end up writing about what I went through while I was living there. So this series is a collection of how I lived, at different points in my life, in different places.
