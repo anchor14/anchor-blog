@@ -12,7 +12,7 @@ So spending too much time on things that don’t matter is worse than spending t
 ## Good enough = good enough
 Perfectionists want to get things done perfectly. But because time is limited, you cannot get everything done perfectly. There are certainly things worth spending an excessive amount of time and effort on.
 
-Van Gogh was not doing a 9 to 5 when he was painting Seascape at Saintes-maries and Steve Jobs was not aiming at making a decent iPhone in 2007. Both of them earned time just as we do - 24 hours per day. So Van Gogh and Steve Jobs did not spend too much time on things that were not painting and designing. They could have spent more time on these other things and done a better job at these other things. But they didn’t. They were happy with sub-par omlettes for breakfast and went back to painting and design. These two didn’t lack understanding of perfection than any of us. If you doubt this, go see Van Gogh’s painting. They were working on perfection on things that they care the most.
+Van Gogh was not doing a 9 to 5 when he was painting <em>Seascape at Saintes-maries</em> and Steve Jobs was not aiming at making a decent iPhone in 2007. Both of them earned time just as we do - 24 hours per day. So Van Gogh and Steve Jobs did not spend too much time on things that were not painting and designing. They could have spent more time on these other things and done a better job at these other things. But they didn’t. They were happy with sub-par omlettes for breakfast and went back to painting and design. These two didn’t lack understanding of perfection than any of us. If you doubt this, go see Van Gogh’s painting. They were working on perfection on things that they care the most.
 
 Mark Zuckerberg mentioned in his interview that he has a simple wardrobe to minimize the amount of time and mental energy he spends on deciding what clothes to wear. He has enough to afford a high-end fashion coordinator, but simply the time spent on these things is not his priority. I’m not too confident how well he would dress if he did spend more time, but maybe he would have developed a decent sense of fashion. Who knows. The principle stands regardless. This man has built a number of products that impacted our world.
 
@@ -29,6 +29,6 @@ If you are still hesitant to make decisions with an imperfect amount of informat
 
 <hr />
 
-After all these reasons, it almost sounds like I hate perfectionists. But I admire them. There is something inherently beautiful about someone working towards building something perfect, whether it be a small kid trying to build a sand castle or Van Gogh painting the Starry Night.
+After all these reasons, it almost sounds like I hate perfectionists. But I admire them. There is something inherently beautiful about someone working towards building something perfect, whether it be a small kid trying to build a sand castle or Van Gogh painting the <em>Starry Night</em>.
 
 But being a perfectionist takes a toll. If you are under the pressure of doing everything perfectly, you will never have enough time and be stressed of the things you produce. So don’t be a perfectionist. We can’t get the most important things done right if we do.
