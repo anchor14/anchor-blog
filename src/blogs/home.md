@@ -6,6 +6,8 @@ At the age of 26, I moved to a new country for a new opportunity. I am older tha
 
 So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lover, an immigrant, a student, a Korean, and a friend.
 
+I found out that a lot of random people end up somehow reading this blog. If you have any feedback or want to talk about any of the things I wrote, please reach out to me. There's nothing that makes me quite as happy as when I hear someone who read the things I wrote. My contact details are at the footnotes.
+
 <!-- The one without links are currently being written/edited. -->
 
 ### 2024
