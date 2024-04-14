@@ -73,7 +73,8 @@ We can also write it about art. If the principle of good art is to give the publ
 Look at the portrait below. Look how out of proportions certain things are. But his paintings moved people's hearts. And he is considered a great artist.
 
 
-![Rousseau self-portrait](../img/rousseau.jpeg)
+![Rousseau portrait](https://drive.google.com/uc?export=view&id=1yPva6h_YrvmiP_fPAlkOiJJxrzYxrLw6)
+
 
 
 We shouldn't try to avoid rules, neither blindly follow them. Avoiding rules won't get you faster to understanding principles, and following rules blindly will prevent you from properly understanding principles. But once you follow rules consciously, you will have these *Eureka!* moments where it suddenly clicks. It makes sense why you were told to do something a certain way. DRY makes sense, not because a senior dev told you so, but it does lead to better code. Putting your guard up and chin down in boxing starts making sense as you get a nasty punch in your chin.
