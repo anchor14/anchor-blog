@@ -73,7 +73,7 @@ We can also write it about art. If the principle of good art is to give the publ
 Look at the portrait below. Look how out of proportions certain things are. But his paintings moved people's hearts. And he is considered a great artist.
 
 
-![Rousseau portrait](https://drive.google.com/uc?export=view&id=1yPva6h_YrvmiP_fPAlkOiJJxrzYxrLw6)
+![Rousseau portrait](https://res.cloudinary.com/dfmfevihi/image/upload/v1713130296/rousseau_j34ykl.jpg)
 
 
 
