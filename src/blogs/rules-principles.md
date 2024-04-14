@@ -35,7 +35,7 @@ When a rule and principle are telling two different things, you should follow th
 
 ### Relationship between rules and principles
 
-![Diagram](../img/rules_diagram.png)
+![Diagram](https://drive.google.com/file/d/1yPva6h_YrvmiP_fPAlkOiJJxrzYxrLw6/view?usp=sharing)
 
 1. A principle has a 1-to-many relationship to rules.
 2. Principles exist before rules; rules are born out of principles.
