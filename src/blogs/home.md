@@ -12,6 +12,7 @@ I found out that a lot of random people end up somehow reading this blog. If you
 
 ### 2024
 1. [Don't be a perfectionist](/blog?post=perfectionist)
+2. [Rules and principles](/blog?post=rules=principles)
 
 ### Career
 1. [Twitter Layoff](/blog?post=layoff)
