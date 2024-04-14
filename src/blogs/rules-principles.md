@@ -35,7 +35,8 @@ When a rule and principle are telling two different things, you should follow th
 
 ### Relationship between rules and principles
 
-![Diagram](https://drive.google.com/file/d/1yPva6h_YrvmiP_fPAlkOiJJxrzYxrLw6/view?usp=sharing)
+<img src="https://res.cloudinary.com/dfmfevihi/image/upload/v1713130295/rules_diagram_vvqzb5.png" alt="Rousseau portrait" width="300">
+
 
 1. A principle has a 1-to-many relationship to rules.
 2. Principles exist before rules; rules are born out of principles.
@@ -73,7 +74,7 @@ We can also write it about art. If the principle of good art is to give the publ
 Look at the portrait below. Look how out of proportions certain things are. But his paintings moved people's hearts. And he is considered a great artist.
 
 
-![Rousseau portrait](https://res.cloudinary.com/dfmfevihi/image/upload/v1713130296/rousseau_j34ykl.jpg)
+<img src="https://res.cloudinary.com/dfmfevihi/image/upload/v1713130296/rousseau_j34ykl.jpg" alt="Rousseau portrait" width="300">
 
 
 
