@@ -2,7 +2,7 @@ I started writing in college because I had ideas floating around my head that I 
 
 I fell in love with writing as putting down ideas into words is like choosing the exact color on a palette. It is a process of understanding the color of the beautiful pink and red sunset in front of your eyes, and laying it down on a canvas.
 
-At the age of 26, I moved to a new country for a new opportunity. I am older than my mom when she gave birth to me, but I still feel like an overgrown child who somehow ended up with a waterfall of opportunities and the fortune of meeting lovely, smart people on the way.
+At the age of 26, I moved to a new country for a new opportunity. I am older than my mom when she brought me into this world, but I still feel like an overgrown child who somehow ended up with a waterfall of opportunities and the fortune of meeting lovely, smart people on the way.
 
 So these are self-portraits of a boy, a man, an engineer, a soldier, a son, a lover, an immigrant, a student, a Korean, and a friend.
 
@@ -11,8 +11,8 @@ I found out that a lot of random people end up somehow reading this blog. If you
 <!-- The one without links are currently being written/edited. -->
 
 ### 2024
-1. [Don't be a perfectionist](/blog?post=perfectionist)
-2. [Rules and principles](/blog?post=rules-principles)
+1. [Rules and principles](/blog?post=rules-principles)
+2. [Don't be a perfectionist](/blog?post=perfectionist)
 
 ### Career
 1. [Twitter Layoff](/blog?post=layoff)
