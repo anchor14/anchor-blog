@@ -80,4 +80,4 @@ Even before Andy Hunt and Dave Thomas wrote *The Pragmatic Programmer*, there wa
 `---`
   
 
-Thanks to Cristian, Nathan for reading this essay.
+Thanks to Cristian, Nathan, and Dzmitry for reading this essay.
