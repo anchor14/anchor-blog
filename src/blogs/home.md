@@ -11,9 +11,9 @@ I found out that a lot of random people end up somehow reading this blog. If you
 <!-- The one without links are currently being written/edited. -->
 
 ### 2024
-1. [Rules and principles](/blog?post=rules-principles)
-2. [Don't be a perfectionist](/blog?post=perfectionist)
-3. [Victim to survivor](/blog?post=survivor)
+1. [Victim to survivor](/blog?post=survivor)
+2. [Rules and principles](/blog?post=rules-principles)
+3. [Don't be a perfectionist](/blog?post=perfectionist)
 
 ### Career
 1. [Twitter Layoff](/blog?post=layoff)
