@@ -4,7 +4,11 @@ On May 11th, I became a victim of attempted murder and robbery in Cartagena, Col
 
 The next part is something I wrote to process my negative feelings into something more tolerable.
 
+Thank you to all the people I know who helped me throughout this process. There's way too many of you to list all your names, but it helps a lot, really.
+
 ----------------------------------------------
+
+## From victim to survivor
 
 The doctor asked me to sign under a label that said "Victim Jaehurn Nam." The report was titled "hurto y tentativa de homicidio" (robbery and attempted murder). I was confused. I have never been a victim. I have been a student, a software engineer, a sergeant, a friend, and more, but never a victim. I never expected to be one. Becoming a victim is strange and difficult because it happens overnight. There's no preparation, no mentorship, no onboarding, and most importantly, no reward. How do you become a good victim? There's no "best victim" award. Victims are simply people who went through something bad and people feel sorry for. We rarely get awards. No one says, "This person has set the bar for how an ideal victim should be." There's no GOAT victim. You might tell me you saw a TED talk by a victim of a horrible experience, but that's impressive because they're giving a TED talk, not because they're a victim. Whatever makes them impressive is post-victim. While playing the role of a victim, we are weak and lost.
 
