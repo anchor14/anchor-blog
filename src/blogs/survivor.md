@@ -1,6 +1,6 @@
 [> back home](/blog?home)
 
-# Trauma series chapter 1 - From victim to survivor
+# **Trauma series chapter 1 - From victim to survivor**
 
 ## Before the essay
 

@@ -1,6 +1,6 @@
 [> back home](/blog?home)
 
-# Trauma series chapter 2 - What I wish I'd known
+# **Trauma series chapter 2 - What I wish I'd known**
 
 This chapter is what I wish I'd known on the first day of my trauma. I'm not a therapist nor have I studied any related field. I studied computer science, economics, and associated mathematics. I worked as a soldier deployed with the UN Peacekeeping Forces in Lebanon, and as a software engineer before this experience.
 
