@@ -20,7 +20,8 @@ Going through trauma that walked into my life overnight was challenging. It make
 Unfortunately the human mind doesn't work like that. We can think of logic, but we cannot control what we feel, just with logic. If I live another ten years and I somehow monetise what I went through, have a happy marriage with loving kids, wildly succeed in my career, and win every Sunday league football game, of course, I'm going to look back and say "shit, everything did become alright, if not better." But there's a long way to go until that point.
 
 As War Daddy, played by Brad Pitt in Fury says,
-*"I started this war killing Germans in Africa. Then France. Then Belgium. Now I'm killing Germans in Germany. It will end, soon. But before it does, a lot more people gotta die."*
+
+> *"I started this war killing Germans in Africa. Then France. Then Belgium. Now I'm killing Germans in Germany. It will end, soon. But before it does, a lot more people gotta die."*
 
 World War II did end. And one day what I'm feeling now will go away. But it won't be this evening, not tomorrow, maybe not even next month. My mood will swing between "I want to blow my head away" to "I want to blow their heads away," to "I feel like absolute shit, but I don't feel like killing anyone" and so on until I can say "Life isn't too bad after all." But that's a long way to go. So before I feel fine, I'm going to keep feeling like shit for a very long time.
 
@@ -36,6 +37,9 @@ It's really frustrating to find yourself incapable of doing things that you were
 
 So, maybe one day I will be alright. But before that, it's going to fucking suck for a while. Maybe I'm on my first combat in Africa. Maybe I'm all the way into Germany. But it's still going to suck. I can tell this much.
 
+----------
+
+
 ## (2) It's my right to end life
 
 I know this sounds sick, but on the days I felt really bad, I came up with a plan to end life. So just as I did when looking to learn more about how CPUs work, I googled and studied relevant literature. If I was going to fail at overcoming this thing, I couldn't fail at wrapping up my own life. That one I needed to succeed on the first go. You will be surprised by how low the success rate of suicide is, and how there are so many different ways you can end up alive, or somewhere between dead and alive. I studied and devised my own plan based on efficiency, amount of physical damage, and pain, in that order. Contemplating this carefully gave me peace. After all, if I decide to go, nobody can stop me. Just like it is fully my responsibility to recover from trauma, no matter how much support I have from family, friends, shrinks, exes, and more, if I decide to end life, nobody can really save me. The right to walk out of this world is a right granted the moment you walk in. You can't choose how long you can live, but you can choose when to die.
@@ -48,7 +52,7 @@ So if you feel like you don't want to live, that's fine. If you want to end it, 
 
 Before I left Korea to come back to London, my mom sat me down and told me the following:
 
-> "Son, I'm not sure what you are feeling now. I haven't gone through what you went through. But I want you to get better, not for you, but for me. I'm not too sure you will do it for yourself, but I know you will do it for me. I never say this often enough, but you are the biggest gift and hope that I have received in life. I want you to do well with life and be happy."
+> *"Son, I'm not sure what you are feeling now. I haven't gone through what you went through. But I want you to get better, not for you, but for me. I'm not too sure you will do it for yourself, but I know you will do it for me. I never say this often enough, but you are the biggest gift and hope that I have received in life. I want you to do well with life and be happy."*
 
 And that was enough. She didn't change the fact that I still hated my life at this moment. But she gave me the power to choose to live another day.
 
