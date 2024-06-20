@@ -1,3 +1,7 @@
+[> back home](/blog?home)
+
+# Trauma series chapter 1 - From victim to survivor
+
 ## Before the essay
 
 On May 11th, I became a victim of attempted murder and robbery in Cartagena, Colombia. I was drugged against my will, rendered unconscious for two days, and it took almost a week for me to regain consciousness and walk on my own. My memory of that week is blurred. I have never blacked out from alcohol or anything else before, so this was a first. They stole my phone, watch, ring, some other belongings, and $95k USD from my crypto wallet. They nearly stole my life.
