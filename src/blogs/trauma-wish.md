@@ -1,4 +1,4 @@
-[> back home](/blog?home)
+[<- back home](/blog?home)
 
 # **Trauma series chapter 2 - What I wish I'd known**
 
@@ -64,7 +64,7 @@ So, it's going to be not alright for a long time. Not because you did something 
 
 Maybe living your life is not something you want at the moment, but that doesn't mean it's not something worth it. Think about how many times in your daily life you had the urge to do trivial things such as eat a chocolate bar or act mean to your partner, and you didn't. And later you looked back and felt good that you didn't. Wanting to eat a chocolate bar when you're trying to lose weight, or having the urge to act mean to someone you love is part of being human. You don't blame yourself for having felt these things. Rather, you feel proud when you keep that to yourself and be the better person.
 
-Similarly, not wanting to live your day when you are going through something horrible is a part of being human. It's okay to want to quit, especially when you are going through something bad. But there is value in living on. You feel a bang out of living another day, even when life has not been nice to you. **The will to live a good life isn't mutually exclusive from the will to live.** Just as you feel nice looking at your six packs after tolerating that chocolate bar, and feel relief looking into the eyes of the woman you love that you didn't say mean things to her just because you were frustrated for a second, one day you will feel that it was a good decision that you didn't quit. In all the moments you wanted to quit, you punched your way through day by day, making steps towards living a good life. One day, looking at a gorgeous sunset with the people you love, you will realise you've lived a good life, and smile.
+Similarly, not wanting to live your day when you are going through something horrible is a part of being human. It's okay to want to quit, especially when you are going through something bad. But there is value in living on. You feel a bang out of living another day, even when life has not been nice to you. **The will to live a good life isn't mutually exclusive from the will to end life.** Just as you feel nice looking at your six packs after tolerating that chocolate bar, and feel relief looking into the eyes of the woman you love that you didn't say mean things to her just because you were frustrated for a second, one day you will feel that it was a good decision that you didn't quit. In all the moments you wanted to quit, you punched your way through day by day, making steps towards living a good life. One day, looking at a gorgeous sunset with the people you love, you will realise you've lived a good life, and smile.
 
 ----------
 

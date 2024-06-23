@@ -11,8 +11,9 @@ I found out that a lot of random people end up somehow reading this blog. If you
 <!-- The one without links are currently being written/edited. -->
 
 ### Trauma
-1. [What I wish I'd known](/blog?post=trauma-wish)
+1. [Intro](/blog?post=trauma-intro)
 2. [Victim to survivor](/blog?post=survivor)
+3. [What I wish I'd known](/blog?post=trauma-wish)
 
 ### 2024
 1. [Rules and principles](/blog?post=rules-principles)
