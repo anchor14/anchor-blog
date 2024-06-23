@@ -1,6 +1,6 @@
-[<- back home](/blog?home)
+[🏠 back home](/blog?home)
 
-# **Trauma series - Intro
+# **Trauma series - Intro**
 
 I became a victim of attempted murder and robbery of most of my life savings at the age of 28. It happened overnight, unexpectedly, but all at once. Since the first day, I could feel this is going to be a long journey. Little did I know that the first day was far from the worst one.
 

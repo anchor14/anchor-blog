@@ -1,4 +1,4 @@
-[<- back home](/blog?home)
+[🏠 back home](/blog?home)
 
 # **Trauma series chapter 2 - What I wish I'd known**
 

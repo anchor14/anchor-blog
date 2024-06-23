@@ -1,4 +1,4 @@
-[<- back home](/blog?home)
+[🏠 back home](/blog?home)
 
 # **Trauma series chapter 1 - From victim to survivor**
 
