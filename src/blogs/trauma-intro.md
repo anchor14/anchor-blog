@@ -9,3 +9,5 @@ I am a software engineer, and I learned how to break down problems and strive to
 So from as far as I can recall of this journey of trauma, I was curious, composed, and tough. But more than any of these, I was in pain. And I never learned how to cope with this amount of anxiety, frustration, anger, and all the other negative emotions I only read or heard about. I spent some days back in Korea by the river, waiting until the sunrise beautifully dazzle over the surface of water, the same surface I had the urge to jump into and break free from everything.
 
 This series is a walkthrough of all the things I come across in this journey. It is a collection of the things I feel, the lessons I learn, the perspectives I gain, the questions I ask and find answers to, as I struggle to claim my life back.
+
+[next chapter ->](/blog?survivor)

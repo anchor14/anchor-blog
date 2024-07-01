@@ -33,3 +33,6 @@ A simple task like changing a light bulb could go wrong in many ways. Everything
 I remember a friend from deployment saying that the best medal anyone ever gets is safely returning home. And I got that medal. Plus a wake-up call that life can end when you least expect it. I don't know the Colombian judicial system well enough to know how many years in prison these people deserve. But I know they don't deserve to make my life worse. There are many things they didn't steal. I still have people I love, the will to live a good life, and intellectual curiosity.
 
 I'm alive. I'm a victim. I'm a survivor.
+
+[<- previous chapter](/blog?trauma-intro)
+[next chapter ->](/blog?trauma-wish)
