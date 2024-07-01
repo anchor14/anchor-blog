@@ -34,5 +34,9 @@ I remember a friend from deployment saying that the best medal anyone ever gets 
 
 I'm alive. I'm a victim. I'm a survivor.
 
-[<- previous chapter](/blog?trauma-intro)
-[next chapter ->](/blog?trauma-wish)
+[<- previous chapter](/blog?post=trauma-intro)
+
+---------------
+
+
+[next chapter ->](/blog?post=trauma-wish)

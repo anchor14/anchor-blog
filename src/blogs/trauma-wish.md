@@ -71,4 +71,4 @@ Similarly, not wanting to live your day when you are going through something hor
 “...things get broken, and sometimes they get repaired, and in most cases, you realize that no matter what gets damaged, life rearranges itself to compensate for your loss, sometimes wonderfully.”  
 ― Hanya Yanagihara, *A Little Life*
 
-[<- previous chapter](/blog?survivor)
+[<- previous chapter](/blog?post=survivor)

@@ -10,4 +10,4 @@ So from as far as I can recall of this journey of trauma, I was curious, compose
 
 This series is a walkthrough of all the things I come across in this journey. It is a collection of the things I feel, the lessons I learn, the perspectives I gain, the questions I ask and find answers to, as I struggle to claim my life back.
 
-[next chapter ->](/blog?survivor)
+[next chapter ->](/blog?post=survivor)
