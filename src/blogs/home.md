@@ -4,11 +4,11 @@ I fell in love with writing as putting down ideas into words is like choosing th
 
 At the age of 26, I moved to a new country for a new opportunity. I am older than my mom when she brought me into this world, but I still feel like an overgrown child who somehow ended up with a waterfall of opportunities and the fortune of meeting lovely, smart people on the way.
 
-At the age of 27, Elon Musk acquired Twitter, and I got laid off in a country I barely had any friends.
+<!-- At the age of 27, Elon Musk acquired Twitter, and I got laid off in a country I barely had any friends.
 
 At the age of 28, I traveled to South America, and nearly got murdered and was stolen of my life savings.
 
-The writings are snapshots of the world through the eyes of a guy who happened to live in 9 countries, served in the United Nations Peacekeeping Forces, got laid off by Elon Musk, almost got murdered and lost his life savings.
+The writings are snapshots of the world through the eyes of a guy who happened to live in 9 countries, served in the United Nations Peacekeeping Forces, got laid off by Elon Musk, almost got murdered and lost his life savings. -->
 
 They are also self-portraits of a man, an engineer, a soldier, a son, a lover, an immigrant, a student, a Korean, a friend, and a boy still trying to grasp what it means to live a good life.
 
