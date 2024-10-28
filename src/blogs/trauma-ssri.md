@@ -1,6 +1,6 @@
 [🏠 back home](/blog?home)
 
-# **Trauma series - Why I quit anti-depressants**
+# **Trauma series chapter 3 - Why I quit anti-depressants**
 
 This essay is about why I quit taking anti-depressants, but I guess to start this story, I should first talk about why I started taking them.
 
