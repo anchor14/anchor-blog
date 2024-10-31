@@ -17,7 +17,7 @@ The short answer is they worked. It met the goal of pushing down the suicidal th
 
 And one day I thought, "Fuck, I miss before taking these meds. I hate this unbeatable laziness more than anything else." My version of good life requires curiosity and ambition. With laziness, it is hard to achieve either. So I stopped taking them. And my mind cleared out, and I started living again.
 
-### Why did I decide to be suicidal rather than lazy
+### Why did I stop taking anti-depressants
 
 The end goal of my life is to live a good life. Nothing changes that. So the question I should always be asking on any given day are
 
