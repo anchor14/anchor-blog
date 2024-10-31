@@ -21,11 +21,11 @@ And one day I thought, "Fuck, I miss before taking these meds. I hate this unbea
 
 The end goal of my life is to live a good life. Nothing changes that. So the question I should always be asking on any given day are
 
-> "Am I still capable of living a good life?"
+>"Am I capable of living a good life?"
 
 As long as that is a "Yes" I need to ask myself
 
->How do I live a good life?"
+>How do I live it?"
 
 After what happened, I still had a version of good life moving forward in my head. When the laziness overwhelmed me, this was gone. One of the definitions a good life for me is to learn something new and thrive in curiosity, and with laziness you can't do this much. With some level of manageable negative emotions, you can. As complicated it is to answer the second question, I would much rather suffer through that one, than lacking the confidence to answer yes to the first question.
 
@@ -42,7 +42,8 @@ And at some point, I'll look back and realise I've lived one.
 
 I tried to write this last bit on my own. But I couldn't come up with a version as nearly good as the one written by my favourite professor. So I'm going to borrow her words here.
 
-------
+-----------------
+
 *I agree with you that “toughness” is not the trait I would choose. But not because it means that trials will keep on coming (they will; both good and bad) and I’d rather not be tried. But because it requires a certain lack of emotion. I wouldn’t choose “happiness” either. It is fleeting and requires increasing effort to maintain: more highs, thrills, and excitement. I would hope that I become more “content”. One day sitting by the river, you might realize what I mean, or when you do have a wife and kids and you have been up all night putting one to bed and bickering about who deals with the other when they wake, you will find yourself unhappy but content. I think you are getting there as you think about all those who have been there for you, those who will be, and those you will be there for.*
 
 
