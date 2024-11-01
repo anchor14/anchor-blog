@@ -1,12 +1,10 @@
 [🏠 back home](/blog?home)
 
+# **Trauma series - anti-depressants**
+
 This essay is about why I quit taking anti-depressants, but I guess to start this story, I should first talk about why I started taking them.
 
-
-This essay is about why I quit taking anti-depressants, but I guess to start this story, I should first talk about why I started taking them.
-
-
-### How did I start anti-depressants
+## (1) Why did I start anti-depressants
 It was back in mid-July, 2 months since the incident. I still had a lot of trouble in my day to day life, but these had gotten much better.  I had found a way to deal with these by keeping myself busy during the day, but sleeping requires the absence of focus. So the worst part of my day was falling asleep. The bad memories, emotions, and thoughts would fill me up to the throat.
 
 I'd be awake in my bed, clenching my fist, imagining that my life ends right here, right now. I would be set free. On a given day I experienced more negative feelings than positive ones. Just as it is a wise decision to close a business when it is losing more money than it is making, it could be a wise decision to close down myself. Surely at some point stubbornness is the last thing that remains between life and death.
@@ -15,14 +13,17 @@ As an engineer, my mind is trained to think of everything that can go wrong,. An
 
 I still found it frustrating to have to go through this chain of thoughts several times a week. And as extreme as this sounds, it's not too different from me trying to lose weight while craving popcorn. Just like some people use ozempic, I decided to take anti-depressants to help me out.
 
-### Did it work
+-----
+## (2) Did it work
 The short answer is yes.
 
 I could fall asleep more easily. With some chemical magic of SSRIs, I had less negative emotions and thoughts. But the same magic chased away the little bit of positive emotions and thoughts I had. And I became dull as I was feeling and thinking less. With dullness, I started losing motivation. Now I couldn't go by the day with as much energy as before. I lacked the motivation to work, exercise, socialise, write, and do other things that made me feel more alive. The drive to do these things helped me manage myself when I was awake, but now I had lost it.
 
 And one day I thought, "Fuck, I miss not taking these meds." My version of good life comes with curiosity and ambition. With laziness, it is hard to enjoy either. So I stopped taking them. And my mind cleared out, and I started living again.
 
-### What consists of a good life
+-----
+
+## (3) What consists of a good life
 
 The end goal of my life is to live a good life. Nothing changes that. So the question I should always be asking on any given day are
 
@@ -47,7 +48,7 @@ And at some point, I'll look back and realise I've lived one.
 
 I tried to write this last bit on my own. But I couldn't come up with a version as nearly good as the one written by my favourite professor. So I'm going to borrow her words here.
 
-------
+------------------------------------
 *I agree with you that “toughness” is not the trait I would choose. But not because it means that trials will keep on coming (they will; both good and bad) and I’d rather not be tried. But because it requires a certain lack of emotion. I wouldn’t choose “happiness” either. It is fleeting and requires increasing effort to maintain: more highs, thrills, and excitement. I would hope that I become more “content”. One day sitting by the river, you might realize what I mean, or when you do have a wife and kids and you have been up all night putting one to bed and bickering about who deals with the other when they wake, you will find yourself unhappy but content. I think you are getting there as you think about all those who have been there for you, those who will be, and those you will be there for.*
 
 
