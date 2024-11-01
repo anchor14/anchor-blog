@@ -26,7 +26,7 @@ And one day I thought, "Fuck, I miss not taking these meds." My version of good 
 
 -----
 
-## (3) What consists of a good life
+## (3) Why I stopped
 
 The end goal of my life is to live a good life. Nothing changes that. So the question I should always be asking on any given day are
 
