@@ -16,6 +16,9 @@ They are also self-portraits of a man, an engineer, a soldier, a son, a lover, a
 
 <!-- The one without links are currently being written/edited. -->
 
+### 2025
+1. [About writing](/blog?post=about-writing)
+
 ### Trauma
 1. [Intro](/blog?post=trauma-intro)
 2. [Victim to survivor](/blog?post=survivor)
