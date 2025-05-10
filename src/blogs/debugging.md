@@ -9,7 +9,7 @@ There are countless systems in this world, but just as Ray Dalio says in his boo
 
 these systems can be broken down into a handful. When I look at *systems*, I try to create a graph in my head as a mental model. There is a root node, which points to other children nodes which are basically subclasses of that node.
 
-<img src="/img/system.png" alt="system" width="300">
+<img src="https://res.cloudinary.com/ddd4ntmt1/image/upload/v1746900747/system_iskg5f.png" alt="system" width="300">
 
 And because all systems all originate from a handful, there is a lot of overlap between these different variations, and you can start using the lessons from one system to another.
 
@@ -52,6 +52,7 @@ In the next section, I will go over my debugging workflow, then I will move on t
 I think this is an important step. Just like life goals, you never have enough time to fix all the bugs in the world, or even in your codebase. So you have to choose a bug. Even if you have the determination and capabilities to fix all bugs, this does not mean you can fix all of them.
 
 Again, as Ray Dalio put in better words,
+
 > *I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want.*
 
 So when I have some time in my hand, the criteria I use to choose the bugs are
