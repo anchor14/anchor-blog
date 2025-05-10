@@ -9,7 +9,7 @@ There are countless systems in this world, but just as Ray Dalio says in his boo
 
 these systems can be broken down into a handful. When I look at *systems*, I try to create a graph in my head as a mental model. There is a root node, which points to other children nodes which are basically subclasses of that node.
 
-![system](https://res.cloudinary.com/dfmfevihi/image/upload/v1713130296/system.png)
+<img src="https://res.cloudinary.com/dfmfevihi/image/upload/v1713130296/system.png" alt="system" width="300">
 
 And because all systems all originate from a handful, there is a lot of overlap between these different variations, and you can start using the lessons from one system to another.
 
@@ -42,7 +42,7 @@ We are all running on some form of system. Just like Linux, human brains are a f
 
 In the next section, I will go over my debugging workflow, then I will move on to how I can apply this workflow to debug myself for improvement.
 
------------
+-----------------------
 ## How I debug
 
 #### Pick a bug
