@@ -33,7 +33,7 @@ There is this 5-step process discussed in the book.
 When I read this, something rang a bell in my head. Then I realised - this is similar to my workflow when I debug code.
 
 1. Pick a bug you want to fix.
-2. Identify the issues, bugs, defects, rooms for improvement with the code.
+2. Identify the issues, bugs, defects, room for improvement with the code.
 3. Identify the root cause of the bug.
 4. Come up with a plan of how to fix the bug.
 5. Execute the fix, refactoring, monitoring, etc.
@@ -43,6 +43,7 @@ We are all running on some form of system. Just like Linux, human brains are a f
 In the next section, I will go over my debugging workflow, then I will move on to how I can apply this workflow to debug myself for improvement.
 
 -----------------------
+
 ## How I debug
 
 #### Pick a bug
@@ -58,9 +59,9 @@ So when I have some time in my hand, the criteria I use to choose the bugs are
 
 I will briefly describe why each of them are important.
 
-Many people think impact only in terms of how much visibility you can get from the company and leverage for the next promo, but impact also is a good proxy for how many smart people are working in that area. Think of AI and LLMs in 2025. And exposure to smart people is one of the best ways to grow.
+Many people think impact only in terms visibility to leverage for promo, but impact is also a good proxy for the amount of smart people are working in that area. Think of AI and LLMs in 2025. And exposure to smart people is one of the best ways to grow.
 
-Curiosity is a magical proxy that often leads you to nice places. Not always, but if you always put proxy in the formula, I believe it is a net plus in choosing where to spend time in your life. Curiosity for me often positively correlates to difficulty. This means I will also be pushing myself to more difficult problems.
+Curiosity is a magical proxy that often leads you to nice places. Not always, but if you always put curiosity in the formula, I believe it is a net plus in choosing where to spend time in your life. Curiosity for me often positively correlates to difficulty. This means I will also be pushing myself to more difficult problems.
 
 Time constraint is another one. It is important to get things done. Not just started. A good chunk of work in this world gets initiated but never completed. Completing things you began consistently is a super power. Usually the last 20% of the task is 80% of the work, which could also mean 80% of the learning is towards the tail end of the work.
 
@@ -104,7 +105,8 @@ Without consistency, the solution does not quality. And to ensure consistency, y
 
 So that's how I fix code. Now let's see how we can transform this to how I can improve my bad habit - which is a bug in the software I run on.
 
-------------------------------------------------------
+-----------------------
+
 ## Debugging myself
 
 First we need to pick a bug. Let's choose a straightforward one. I need to sleep on time. My ideal sleep time is around 9:45 p.m. - 10 p.m, including weekends, and I fail to keep this rule way too often. So the clear goal is to consistently go to bed on time, and keep myself accountable.
