@@ -40,6 +40,8 @@ When I read this, something rang a bell in my head. Then I realised - this is si
 
 We are all running on some form of system. Just like Linux, human brains are a form of software, written by nature, in genetic code. Nature is better than any engineer I know, but still not perfect. All software have room for improvement, and so do we. Because software and human brains have similarities, the approach to improve software can be applied to improving yourself.
 
+Of course, human behavior is inherently more complex than code—our emotions, habits, and subconscious motives can’t fully be captured by logic alone. But despite these complexities, adopting a structured debugging approach can still provide valuable guidance.
+
 In the next section, I will go over my debugging workflow, then I will move on to how I can apply this workflow to debug myself for improvement.
 
 -----------------------
@@ -89,7 +91,7 @@ Now that you know where you are and where you want to get to, you have to draw t
 
 Remember when you were young, and there was no navigation apps so you had to read a map and try to figure out what is the best path to get there? Same thing with software. You should have all the resources in front of you, but now you have to decide how to get to the destination.
 
-Again there are multiple ways to do this. One perpsective is quality vs. speed. Fixing the bug is a sub-problem of improving the code. You could also improve the readability, optimise the performance, and do a million other things to improve the code while you are fixing the bug.
+Again there are multiple ways to do this. One perspective is quality vs. speed. Fixing the bug is a sub-problem of improving the code. You could also improve the readability, optimise the performance, and do a million other things to improve the code while you are fixing the bug.
 
 One advantage here is that you have the clear mental model in your memory, so most of these improvements are on sale with a discount rate. You don't have to buy something just because it is on discount, but if you will have to buy it soon, might as well buy it now.
 
@@ -101,13 +103,15 @@ Now you have to fix the code. You need to have the determination, consistency, a
 
 One important step is to put in the right monitoring tools. You have to check that the solution you put in works with consistency, and did not cause other issues. This is an easy step to skip, and I believe this is why so many people fall back to bad habits again and so much software is not properly fixed. 
 
-Without consistency, the solution does not quality. And to ensure consistency, you need a certain form of monitoring tool. In code, we use logs, tracing, alerts, monitoring, etc. There are again a million ways you can do this to reach the end goal of - assurance of the consistency of your fix.
+Without consistency, any solution lacks quality. And to ensure consistency, you need a certain form of monitoring tool. In code, we use logs, tracing, alerts, monitoring, etc. There are again a million ways you can do this to reach the end goal of - assurance of the consistency of your fix.
 
 So that's how I fix code. Now let's see how we can transform this to how I can improve my bad habit - which is a bug in the software I run on.
 
 -----------------------
 
 ## Debugging myself
+
+Now that we’ve seen how a structured approach works for debugging software, let’s apply this same systematic mindset to debugging a personal habit.
 
 First we need to pick a bug. Let's choose a straightforward one. I need to sleep on time. My ideal sleep time is around 9:45 p.m. - 10 p.m, including weekends, and I fail to keep this rule way too often. So the clear goal is to consistently go to bed on time, and keep myself accountable.
 
@@ -121,6 +125,6 @@ Above is a rough map of what I need to try. I have not tried something this syst
 
 The part I am still a bit lost on is how to monitor myself. I don't have all the sophisticated tools that exist like [Kibana](https://www.elastic.co/kibana), [Datadog](https://www.datadoghq.com/), [Sentry](https://sentry.io/welcome/) for myself. But I feel like that's an over-complication. Smart, disciplined people have achieved great things by consistently keeping their life in routine. The root cause is clear, and if I don't sleep early, the symptoms are already known. I don't feel as energetic, my head is not clear enough, I make bad decisions, and it's a vicious cycle from there.
 
-I am not sure that sleeping on time consistently would help me achieve the things I want to lead myself to the life I aspire. But I know for sure that if I don't do this small thing consistently, I will not. So this is an important bug in my system that I have to debug and fix.
+I’m not entirely certain if sleeping consistently on time will directly lead me to the life I aspire to, but I’m absolutely sure that failing to fix this small yet critical bug will hinder my ability to achieve greater goals. I’m genuinely curious and committed to trying this structured approach, just like I do with code, and I’ll document my experience in a follow-up essay.
 
-I'll try the above approach and write a follow-up to this one.
+I’m genuinely curious to see whether applying this structured debugging process helps me improve my sleep habit—and if it does, perhaps it can be a framework to debug and enhance other areas of my life too.
