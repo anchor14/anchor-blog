@@ -5,7 +5,7 @@ I believe everything in this world is some form of entity - similar to an object
 
 There are countless systems in this world, but just as Ray Dalio says in his book, 
 
-> With time and experience, I came to see each encounter as “another one of those” that I could approach more calmly and analytically, like a biologist might approach an encounter with a threatening creature in the jungle: first identifying its species and then, drawing on his prior knowledge about its expected behaviors, reacting appropriately.
+> *With time and experience, I came to see each encounter as "another one of those" that I could approach more calmly and analytically, like a biologist might approach an encounter with a threatening creature in the jungle: first identifying its species and then, drawing on his prior knowledge about its expected behaviors, reacting appropriately.*
 
 these systems can be broken down into a handful. When I look at *systems*, I try to create a graph in my head as a mental model. There is a root node, which points to other children nodes which are basically subclasses of that node.
 
@@ -19,16 +19,16 @@ I always find it easier to understand concepts and ideas through a specific exam
 
 There is this 5-step process discussed in the book.
 
-> **5-Step process to getting what you want out of life:**  
+> ***5-Step process to getting what you want out of life:***  
 > 
-> 1. Setting clear goals  
-> 2. Identifying and not tolerating problems challenging your system to reach your goals  
-> 3. Diagnosing the problem’s root cause  
-> 4. Designing a detailed plan with solutions to fix the problem  
-> 5. Doing the tasks set forward in the plan  
+> *1. Setting clear goals*  
+> *2. Identifying and not tolerating problems challenging your system to reach your goals*  
+> *3. Diagnosing the problem's root cause*  
+> *4. Designing a detailed plan with solutions to fix the problem*  
+> *5. Doing the tasks set forward in the plan*  
 >   
-> How often you take the cycle will dictate how fast you and your machine improves.  
-> **Values → 1) Goals → 2) Problems → 3) Diagnoses → 4) Designs → 5) Tasks**
+> *How often you take the cycle will dictate how fast you and your machine improves.*  
+> ***Values → 1) Goals → 2) Problems → 3) Diagnoses → 4) Designs → 5) Tasks***
 
 When I read this, something rang a bell in my head. Then I realised - this is similar to my workflow when I debug code.
 
@@ -52,7 +52,7 @@ In the next section, I will go over my debugging workflow, then I will move on t
 I think this is an important step. Just like life goals, you never have enough time to fix all the bugs in the world, or even in your codebase. So you have to choose a bug. Even if you have the determination and capabilities to fix all bugs, this does not mean you can fix all of them.
 
 Again, as Ray Dalio put in better words,
-> I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want.
+> *I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want.*
 
 So when I have some time in my hand, the criteria I use to choose the bugs are
 - Impact
