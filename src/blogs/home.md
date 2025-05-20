@@ -18,6 +18,8 @@ They are also self-portraits of a man, an engineer, a soldier, a son, a lover, a
 
 ### 2025
 1. [About writing](/blog?post=about-writing)
+2. [London Ruby User Group talk - the tags tale](https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4)
+3. Ruby Ireland talk - resilient systems
 
 ### Trauma
 1. [Intro](/blog?post=trauma-intro)
