@@ -1,6 +1,6 @@
 [🏠 back home](/blog?home)
 
-# What if AI takes your job
+# [WIP] What if AI takes your job
 
 I began writing this essay out of anxiety. AI-powered coding tools have rapidly advanced in less than a year, making me worried about losing my job. Initially, my goal was to identify specific 
 skills or traits I should develop to protect myself against AI.
