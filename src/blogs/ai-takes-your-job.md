@@ -3,6 +3,7 @@
 I began writing this essay out of anxiety. AI-powered coding tools have rapidly advanced in less than a year, making me worried about losing my job. Initially, my goal was to identify specific 
 skills or traits I should develop to protect myself against AI.
 But as I started thinking, I realised AI could impact far more than just me - many industries will soon face disruption. This led me to ask a broader question:
+
 > What should anyone learn to remain employable?
 
 My question shifted toward the common denominator of all jobs. Regardless of whether you lose your job due to AI or an economic downturn, you’ll always need to find new work. There are so many things that can go wrong with your job - your own performance, your industry, your company's revenue, your org, etc. The problem becomes simple when you realise that what you need is to be a great person to work with. You'll find somewhere, somewhere good.
@@ -16,6 +17,8 @@ The best way to learn something is to consistently do something. And luckily, a 
 This is important and good news. We are all constrained by time and if you are conscious of learning something as you do it, you can learn a lot more without putting in extra time.
 
 And this led me to think of all the people whom I found great to work with, and would love to work with again in the future. I have been in start-ups, big tech, and military units, but the traits I find in great co-workers was not much different per industry. The skills are - being good at Ruby is important for a dev while being a good shooter makes you a good soldier, but the traits are more universal. I still have a long way to go for every single one of these. But I have seen people who excel at one or multiple of these at some point of my career, and subconsciously tried to learn by imitation.
+
+-----------------------
 
 - Responsibility
 	- You need to do what you said you will do. This sounds obvious, but it is easier said than done. When you take a task, there will always be unknown unknowns. Proper responsibility means you abstract these unknowns from the stakeholders, and get the stuff done within the expected timeline. When something comes up that changes the timeline, you should communicate this to stakeholders, and do everything within control and push through.
@@ -49,6 +52,8 @@ And this led me to think of all the people whom I found great to work with, and 
 	- Paul graham wrote an essay about why you should be a good person - [link](https://paulgraham.com/good.html).
 	- Kindness itself has internal virtue, but in this essay we are focusing on how to be a good co-worker. And in simple words, most people prefer to work with kind people. And kindness can come in many forms from helping someone struggling with a specific task to being nice with words or guarding your direct reports from company politics. But kindness is remembered and often reciprocated. And they are remembered because people like them, the same way they dislike people who are rude.
 	- All else equal, everyone will choose to work someone kinder. You are already equal to yourself, so if you learn how to be kind, you become a better co-worker. And a better co-worker has an edge in any industry.
+
+-----------------------
 
 So that's it. To hedge yourself from the AI wave, you have to become a good co-worker by learning things that are useful across different workplaces. The first customers of your work are the people you work with, and if you make it better for them, the someone will be willing to pay you to work with them.
 
