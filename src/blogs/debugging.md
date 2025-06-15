@@ -1,3 +1,5 @@
+[🏠 back home](/blog?home)
+
 ## Intro
 I am reading [Principles by Ray Dalio](https://www.principles.com/), and the first part covers life principles. While I was reading, I started connecting the dots in my head with lessons from my life. Steve Jobs had a much higher level of intuition and capabilities at this - [link to his commencement speech](https://youtu.be/UF8uR6Z6KLc?feature=shared&t=55).
 

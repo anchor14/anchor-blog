@@ -17,9 +17,11 @@ They are also self-portraits of a man, an engineer, a soldier, a son, a lover, a
 <!-- The one without links are currently being written/edited. -->
 
 ### 2025
-1. [About writing](/blog?post=about-writing)
-2. [London Ruby User Group talk - the tags tale](https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4)
+1. [WIP - What if AI takes your job](/blog?post=ai-takes-your-job)
+2. [WIP - Debugging](/blog?post=debugging)
 3. [Ruby Ireland talk - resilient systems](https://drive.google.com/file/d/17L4W4mbZd8FXRynLjMicRenxgBef_6c1/view?usp=sharing)
+4. [London Ruby User Group talk - the tags tale](https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4)
+5. [About writing](/blog?post=about-writing)
 
 ### Trauma
 1. [Intro](/blog?post=trauma-intro)
