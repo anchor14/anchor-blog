@@ -6,12 +6,12 @@ I began writing this essay out of anxiety. AI-powered coding tools have rapidly 
 skills or traits I should develop to protect myself against AI.
 But as I started thinking, I realised AI could impact far more than just me - many industries will soon face disruption. This led me to ask a broader question:
 
-> What should anyone learn to remain employable?
+>What should anyone learn to remain employable?
 
 My question shifted toward the common denominator of all jobs. Regardless of whether you lose your job due to AI or an economic downturn, you’ll always need to find new work. There are so many things that can go wrong with your job - your own performance, your industry, your company's revenue, your org, etc. The problem becomes simple when you realise that what you need is to be a great person to work with. You'll find somewhere, somewhere good.
 
 So what does it exactly require to be a great person to work with?
-Customer obsession is a hot word in the tech industry(Amazon's Leadership Principle, Intercom's values). The principle is that we are building software for our customers, so you should think from their perspective. If you take a step back, the first customers of your work are your co-workers. Most code and written document goes to your co-workers before real customers.
+Customer obsession is a hot word in the tech industry([Amazon's Leadership Principle](https://www.amazon.jobs/content/en/our-workplace/leadership-principles), Intercom's values). The principle is that we are building software for our customers, so you should think from their perspective. If you take a step back, the first customers of your work are your co-workers. Most code and written document goes to your co-workers before real customers.
 
 So if you think from your work's customers' perspective - your co-workers - you need to do work in a way that it makes it easy for them to work with you.
 
@@ -54,7 +54,7 @@ And this led me to think of all the people whom I found great to work with, and 
 - This is correlated to, the amount of knowledge you have. But it seems to be more than just that. It is more so of how to combine and use the knowledge you have to come up with a solution of some problem. Knowledge is scattered in our brain because that's usually how we learn them. We learn them data by data, class by class, session by session. But when you realise how two different knowledge nodes are connected, it's more than just two nodes. Steve Jobs talks about how him having studied font design affected the creation of Macintosh.
 - I am not too sure how you learn to connect the dots. One way is to keep connecting them. I think writing is a good way to practice it. Everything you know is already known in this world. To write something interesting, you need to draw a path among the knowledge nodes you have that is unique and intersting. There are many permutations of this path.
 - There must be many other ways to do this. Working on something abstract and new, you are probably pushed more to use all the tools you have. One of the most enjoyable days of my life was when I saw someone connect dots with a new path, dots I knew, but a path I did not see.
-  
+
 ### Kindness
 - Paul graham wrote an essay about why you should be a good person - [link](https://paulgraham.com/good.html).
 - Kindness itself has internal virtue, but in this essay we are focusing on how to be a good co-worker. And in simple words, most people prefer to work with kind people. And kindness can come in many forms from helping someone struggling with a specific task to being nice with words or guarding your direct reports from company politics. But kindness is remembered and often reciprocated. And they are remembered because people like them, the same way they dislike people who are rude.
