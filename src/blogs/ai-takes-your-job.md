@@ -1,5 +1,7 @@
 [🏠 back home](/blog?home)
 
+# What if AI takes your job
+
 I began writing this essay out of anxiety. AI-powered coding tools have rapidly advanced in less than a year, making me worried about losing my job. Initially, my goal was to identify specific 
 skills or traits I should develop to protect myself against AI.
 But as I started thinking, I realised AI could impact far more than just me - many industries will soon face disruption. This led me to ask a broader question:
