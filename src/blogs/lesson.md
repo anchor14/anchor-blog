@@ -96,15 +96,20 @@ One day, when I’m smarter and wiser, maybe I’ll figure out how to teach this
 
 ---
 
+
 There are too many people who supported me through this journey to thank one by one. So I won’t list the names here, but I’ll try to reach out to each of you in my own time.
 But thank you, Peter, for being my support through the last year. The essay felt incomplete without mentioning you by name.
+
 
 ---
 
 I'm going to finish with a quote.
-This is a cheesy, corny, basic quote, one you might see on those cringe TikTok videos. Make fun of me if you want.
+This is a cheesy, corny, basic quote, one you might see on those cringe TikTok videos. So make fun of me if you want.
+
 But I like it because every time I was making progress recovering from trauma, all my friends gave me so much support. I thought I could stop there and take a break, and it would still be good enough.
-But deep down, I knew this event was an opportunity to push my limits. So I didn’t stop. Even after I got my promotion, I kept waking up at 6 a.m. to study software design six days a week. And I’m not going to stop, not for the next decades to come.
+
+But deep down, I knew this incident, this event, was an opportunity to push my limits. So I didn’t stop. I kept waking up at 6 a.m. to study
+software design. And I’m not going to stop, not for the next decades to come. This is the life I chose. And I'm far from done.
 
 *Don't stop when you're tired. Stop when you're done.*
 David Goggins
