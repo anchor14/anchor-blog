@@ -92,7 +92,7 @@ So I stayed. I pushed through. I kept reminding myself that this was my job: to 
 
 And there’s something almost beautiful about that process, facing what you want to run from, every single day. It’s its own unique color of romance. You learn to accept the parts of life you wish weren’t yours, and you start changing them. Because it’s your life.
 
-One day, when I’m smarter and wiser, maybe I’ll figure out how to teach this to my kids without them having to earn it the hard way.
+One day, when I’m smarter and wiser, maybe I’ll figure out how to teach this to my kids without them having to learn it the hard way.
 
 ---
 
