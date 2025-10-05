@@ -100,6 +100,7 @@ There are too many people who supported me through this journey to thank one by 
 But thank you, Peter, for being my support through the last year. The essay felt incomplete without mentioning you by name.
 
 ---
+
 I'm going to finish with a quote.
 This is a cheesy, corny, basic quote, one you might see on those cringe TikTok videos. Make fun of me if you want.
 But I like it because every time I was making progress recovering from trauma, all my friends gave me so much support. I thought I could stop there and take a break, and it would still be good enough.
