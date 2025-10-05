@@ -112,4 +112,5 @@ Deep down, I knew this incident, this event, was an opportunity to push my limit
 software design. And I’m not going to stop, not for the next decades to come. This is the life I chose. And I'm far from done.
 
 *Don't stop when you're tired. Stop when you're done.*
+
 David Goggins
