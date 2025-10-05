@@ -109,7 +109,11 @@ This is a cheesy, corny, basic quote, one you might see on those cringe TikTok v
 But I like it because every time I was making progress recovering from trauma, all my friends gave me so much support. I thought I could stop there and take a break, and it would still be good enough.
 
 Deep down, I knew this incident, this event, was an opportunity to push my limits. So I didn’t stop. I kept waking up at 6 a.m. to study
-software design. And I’m not going to stop, not for the next decades to come. This is the life I chose. And I'm far from done.
+software design.
+
+Sometimes I would find myself in relief that I have fully recovered, and have a slight dip on my determination. In those moments, I would play Arranca by Becky G. That's the last song I remember before losing consciousness playing at the bar. It brings so much anger, so much pain that that the determination kicks back in because I have no other choice.
+
+I’m not going to stop, not the next decades. This is the life I chose. And I'm far from done.
 
 *Don't stop when you're tired. Stop when you're done.*
 
