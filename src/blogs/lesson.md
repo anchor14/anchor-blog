@@ -104,9 +104,17 @@ But thank you, Peter, for being my support through the last year. The essay felt
 ---
 
 I'm going to finish with a quote.
-This is a cheesy, corny, basic quote, one you might see on those cringe TikTok videos. So make fun of me if you want.
+A cheesy, corny, basic quote, one you might see on those cringe TikTok videos. So make fun of me if you want.
 
-But I like it because every time I was making progress recovering from trauma, all my friends gave me so much support. I thought I could stop there and take a break, and it would still be good enough.
+But I like this quote because it's true. I am the same guy in many ways, but living a different life. I see and live the world differently after learning how to live a decent life with trauma. Then I moved on to living a good life with trauma, and working my way to a great one.
+
+I remember telling my best friend Cris at a pub, about 6 months after the event that in some ways I am grateful this happened. Because I learned things I never would have otherwise. And in some ways life is just a series of lessons. Looking back, this event was necessary for the important lessons that I am grateful I learned.
+
+*Every man has two lives, and the second begins when he realizes he has just one.*
+
+Confucius
+
+<!-- But I like it because every time I was making progress recovering from trauma, all my friends gave me so much support. I thought I could stop there and take a break, and it would still be good enough.
 
 Deep down, I knew this incident, this event, was an opportunity to push my limits. So I didn’t stop. I kept waking up at 6 a.m. to study
 software design.
@@ -117,4 +125,4 @@ I’m not going to stop, not the next decades. This is the life I chose. And I'm
 
 *Don't stop when you're tired. Stop when you're done.*
 
-David Goggins
+David Goggins -->
