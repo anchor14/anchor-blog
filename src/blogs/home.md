@@ -1,4 +1,4 @@
-I started writing in college because I had ideas floating around my head that I was afraid to lose. They could be just random, trivial thoughts, but they were mine, and I wanted to keep them somewhere. 
+I started writing in college because I had ideas floating around my head that I was afraid to lose. They could be just random, trivial thoughts, but they were mine, and I wanted to keep them somewhere.
 
 I fell in love with writing as putting down ideas into words is like choosing the exact color on a palette. It is a process of understanding the color of the beautiful pink and red sunset in front of your eyes, and laying it down on a canvas.
 
@@ -16,17 +16,20 @@ They are also self-portraits of a man, an engineer, a soldier, a son, a lover, a
 
 <!-- The one without links are currently being written/edited. -->
 
-### 2025
+### WIP
 1. [WIP - What if AI takes your job](/blog?post=ai-takes-your-job)
 2. [WIP - Debugging](/blog?post=debugging)
-3. [Ruby Ireland talk - resilient systems](https://drive.google.com/file/d/17L4W4mbZd8FXRynLjMicRenxgBef_6c1/view?usp=sharing)
-4. [London Ruby User Group talk - the tags tale](https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4)
-5. [About writing](/blog?post=about-writing)
+
+### 2025
+1. [Ruby Ireland talk - resilient systems](https://drive.google.com/file/d/17L4W4mbZd8FXRynLjMicRenxgBef_6c1/view?usp=sharing)
+2. [London Ruby User Group talk - the tags tale](https://assets.lrug.org/videos/2025/february/jaehurn-nam-the-tag-tale-lrug-feb-2025.mp4)
+3. [About writing](/blog?post=about-writing)
 
 ### Trauma
 1. [Intro](/blog?post=trauma-intro)
 2. [Victim to survivor](/blog?post=survivor)
 3. [What I wish I'd known](/blog?post=trauma-wish)
+4. [Lesson](/blog?post=trauma-lesson)
 
 ### 2024
 1. [Rules and principles](/blog?post=rules-principles)
