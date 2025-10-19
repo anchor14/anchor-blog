@@ -81,9 +81,9 @@ There are too many people who supported me through this journey to thank one by 
 
 ---
 
-_If I were a different kind of person, I might say that this whole incident is a metaphor for life in general: things get broken, and sometimes they get repaired, and in most cases, you realize that no matter what gets damaged, life rearranges itself to compensate for your loss, sometimes wonderfully._ _Actually - maybe I am that kind of person after all._
+*Every man has two lives, and the second begins when he realizes he has just one.*
 
-Hanya Yanagihara, A Little Life
+Confucius
 
 
 [<- previous chapter](/blog?post=trauma-wish)
